@@ -1,0 +1,3 @@
+https://bytes.yingw787.com/posts/2018/12/03/data_driven_testing_two/
+https://bytes.yingw787.com/posts/2018/12/10/data_driven_testing_three/
+https://docs.pytest.org/en/latest/parametrize.html#basic-pytest-generate-tests-example
